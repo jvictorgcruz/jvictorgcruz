@@ -1,6 +1,6 @@
 ### 👋 Olá! Eu sou o João Victor
 
-💻 Estagiário de desenvolvimento apaixonado por resolver problemas com código.
+💻 Sesenvolvedor apaixonado por resolver problemas com código.
 
 📚 Estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de Santa Catarina
 
